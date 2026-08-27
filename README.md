@@ -1,12 +1,14 @@
 # Jonas Paprotka
 
-The remaining "free time" in my life is now reserved for exploring and learning low-level coding. I started into low level with C++ & Assembly building my own 64-bit OS. (This surely is a great and not horrible idea).
+In my free time im exploring and learning low-level coding. I started into low level with Assembly and C, now use C++ to build my own 64-bit Kernel. (This surely is a great and not horrible idea).
 
-Want to check in on progress, or see whether I've gone crazy or given up? Then look at my ESZ project series.
+Do you want to check in on the progress? Do you want to see whether I've gone crazy or given up? Then look at my ESZ project series.
 
 ## Public ESZ Projects
 
-### [ESZ-OS](https://github.com/jonaspaprotka/ESZ-OS)
+<a href="https://github.com/jonaspaprotka/ESZ-OS">
+  <img alt="ESZ-OS" src="assets/esz-os-banner.png">
+</a>
 
 A hobby x86_64 kernel, written in C++ and Assembly.
 
