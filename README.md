@@ -6,12 +6,18 @@ Do you want to check in on the progress? Do you want to see whether I've gone cr
 
 ## Public ESZ Projects
 
-<a href="https://github.com/jonaspaprotka/ESZ-OS">
-  <img alt="ESZ-OS" src="assets/esz-os-banner.png">
-</a>
+<table>
+<tr><td width="900" align="center">
 
-A hobby x86_64 kernel, written in C++ and Assembly.
+<a href="https://github.com/jonaspaprotka/ESZ-OS"><img alt="ESZ-OS" src="assets/esz-os-banner.png" width="100%"></a>
 
-<a href="https://github.com/jonaspaprotka/ESZ-OS/releases">
-  <img alt="Latest release" src="https://img.shields.io/github/v/release/jonaspaprotka/ESZ-OS?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f&color=2f81f7">
-</a>
+<p>A hobby x86_64 kernel, written in C++</p>
+
+<p>
+<a href="https://github.com/jonaspaprotka/ESZ-OS/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/jonaspaprotka/ESZ-OS?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f&color=2f81f7"></a>
+<a href="https://github.com/jonaspaprotka/ESZ-OS/actions/workflows/ci.yml"><img alt="Build and tests" src="https://img.shields.io/github/actions/workflow/status/jonaspaprotka/ESZ-OS/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=build%20%26%20tests&labelColor=24292f&color=2f81f7"></a>
+<a href="https://github.com/jonaspaprotka/ESZ-OS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/jonaspaprotka/ESZ-OS?style=for-the-badge&labelColor=24292f&color=2f81f7"></a>
+</p>
+
+</td></tr>
+</table>
